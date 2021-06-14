@@ -1,6 +1,6 @@
-import Container from './Container';
+import { Container } from './Container';
 
-class ContainerBuilder {
+export class ContainerBuilder {
     private _definitions: any;
 
     constructor(definitions: any) {
@@ -13,4 +13,3 @@ class ContainerBuilder {
     }
 }
 
-export default ContainerBuilder;

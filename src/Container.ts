@@ -1,4 +1,4 @@
-class Container {
+export class Container {
     private _resolvedDefinitions: any = {};
     private _definitions: any = {};
 
@@ -23,5 +23,3 @@ class Container {
         return definition;
     }
 }
-
-export default Container;

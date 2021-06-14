@@ -6,5 +6,3 @@ export const useDependency = (name: string) => {
 
     return container.get(name);
 };
-
-export default useDependency;

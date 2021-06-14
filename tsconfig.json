@@ -17,6 +17,7 @@
       "suppressImplicitAnyIndexErrors": true,
       "allowSyntheticDefaultImports": true
     },
+    "typeAcquisition": {"include": ["jest"]},
     "include": ["src"],
     "exclude": ["node_modules", "lib"]
   }
