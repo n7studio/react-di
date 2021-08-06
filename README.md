@@ -14,7 +14,7 @@ const config = {
 };
 ```
 
-Wrap the application with the ContainerProvider and pass your dependency config
+Wrap the application with the ContainerProvider and pass your dependency config.
 
 ```javascript
 ReactDOM.render(
@@ -27,7 +27,7 @@ ReactDOM.render(
 );
 ```
 
-To access the dependency use the hook: useDependency
+To access the dependency use the hook: useDependency.
 
 ```javascript
 const hello = useDependency('hello')
