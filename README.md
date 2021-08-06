@@ -6,13 +6,13 @@ A dependency injection container package for React.
 
 - Create a config factory to return your dependency.
 
-
+>
 const config = {
   hello: () => {
       return "Hello world!";
   }
 };
-
+>
 
 - Wrap the application with the ContainerProvider and pass your  dependency config
 
