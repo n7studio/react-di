@@ -1,5 +1,5 @@
 {
-  "name": "re-inject",
+  "name": "@nine7soft/react-di",
   "version": "1.0.0",
   "description": "Dependency Injection package for React",
   "repository": {
