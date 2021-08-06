@@ -1,5 +1,5 @@
 {
-  "name": "react-di",
+  "name": "re-inject",
   "version": "1.0.0",
   "description": "Dependency Injection package for React",
   "repository": {
