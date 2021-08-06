@@ -18,6 +18,6 @@
       "allowSyntheticDefaultImports": true
     },
     "typeAcquisition": {"include": ["jest"]},
-    "include": ["src"],
+    "include": ["src", "tests", "tests"],
     "exclude": ["node_modules", "lib"]
   }

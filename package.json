@@ -6,7 +6,7 @@
     "url": "https://github.com/nine7soft/react-di",
     "type": "git"
   },
-  "author": "Your Name <you@example.com>",
+  "author": "nine7soft",
   "license": "MIT",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",

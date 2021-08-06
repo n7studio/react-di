@@ -1,3 +1,4 @@
+import React from 'react'
 import { renderHook } from "@testing-library/react-hooks";
 import { ContainerProvider } from "../src";
 import { useDependency } from "../src";
